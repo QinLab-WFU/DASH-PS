@@ -11,7 +11,7 @@ After the dataset has been prepared, we could run the follow command to train.
 ### Citation
 @article{FU2025129577,
 
-author = {Yongyue Fu and Qibing Qin and Jinkui Hou and Congcong Zhu and Lei Huang and Wenfeng Zhang},
+author = {Yongyue Fu, Qibing Qin, Jinkui Hou, Congcong Zhu, Lei Huang and Wenfeng Zhang},
 
 title = {Deep Asymmetric Semantic Hashing with Probability Shifting for Multi-Label Image Retrieval},
 
